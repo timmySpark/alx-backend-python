@@ -3,4 +3,5 @@
 
 
 def floor(n: float) -> int:
+    ''' return floored result of value '''
     return int(n)
